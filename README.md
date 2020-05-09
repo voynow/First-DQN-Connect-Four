@@ -1,3 +1,3 @@
 # Reinforcement-Learning
-Using methods of RL to manifest intelligent agents
+First implementation of DQN - environment: connect four
 
