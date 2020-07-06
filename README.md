@@ -1,3 +1,3 @@
 # Reinforcement-Learning
-First implementation of DQN - environment: connect four
+First implementation of DQN
 
